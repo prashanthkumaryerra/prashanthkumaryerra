@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Prashanth Kumar!
 
-🚀 **Aspiring DevOps Engineer** | AWS | Terraform | Jenkins | Docker | CI/CD | Linux
+🚀 ** DevOps Engineer** | AWS | Terraform | Jenkins | Docker | CI/CD | Linux
 
 🌱 Currently sharpening my skills with hands-on DevOps labs and real-world mini projects on AWS.
 
