@@ -26,9 +26,9 @@
 | Project | Description |
 |--------|-------------|
 | [terraform-aws-vpc-ec2](https://github.com/prashanthkumaryerra/terraform-aws-vpc-ec2) | Create a custom VPC and deploy an EC2 instance using Terraform |
-| [jenkins-docker-ci-pipeline](https://github.com/prashanthkumaryerra/jenkins-docker-ci-pipeline) *(coming soon)* | CI/CD pipeline for a Dockerized app using Jenkins and GitHub integration |
-| [iac-nginx-vpc](https://github.com/prashanthkumaryerra/iac-nginx-vpc) *(coming soon)* | Deploy Nginx in EC2 within a custom VPC via Infrastructure as Code |
-| *docker-k8s-eks-deployment* *(in progress)* | Basic app deployment on AWS EKS using Docker & Kubernetes (improvements planned) |
+| [jenkins-docker-ci-pipeline](https://github.com/prashanthkumaryerra/jenkins-docker-ci-pipeline)  | CI/CD pipeline for a Dockerized app using Jenkins and GitHub integration |
+| [iac-nginx-vpc](https://github.com/prashanthkumaryerra/iac-nginx-vpc)  | Deploy Nginx in EC2 within a custom VPC via Infrastructure as Code |
+| *docker-k8s-eks-deployment*  | Basic app deployment on AWS EKS using Docker & Kubernetes (improvements planned) |
 
 ---
 
