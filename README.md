@@ -1,28 +1,42 @@
 # 👋 Hey there, I'm Prashanth Kumar!
 
-🚀 ** DevOps Engineer** | AWS | Terraform | Jenkins | Docker | CI/CD | Linux
+🚀 **DevOps Engineer** | AWS | Terraform | Jenkins | Docker | Kubernetes | CI/CD | Linux
 
-🌱 Currently sharpening my skills with hands-on DevOps labs and real-world mini projects on AWS.
+🌱 I'm currently sharpening my skills by building hands-on DevOps labs and real-world infrastructure automation projects on AWS.
 
-💻 Most of my projects focus on:
-- Infrastructure as Code using **Terraform**
-- CI/CD Pipelines with **Jenkins**
-- Cloud Deployments using **AWS EC2, VPC, S3**
-- Dockerized applications and automation
+---
 
-🔧 Tech Stack:
-AWS | Terraform | Jenkins | Docker | GitHub Actions | Linux | Bash | CI/CD | EC2 | VPC | IAM
+### 🧠 What I’m focusing on:
+- 🔧 Infrastructure as Code using **Terraform**
+- 🌀 CI/CD pipelines with **Jenkins & GitHub Actions**
+- ☁️ Cloud provisioning on **AWS** – EC2, VPC, S3, IAM
+- 🐳 Containerization using **Docker**
+- ☸️ Orchestration with **Kubernetes (EKS)**
+- 📦 Automating deployments using **Ansible & Bash scripting**
 
-📂 Featured Projects:
-- [terraform-aws-vpc-ec2](https://github.com/prashanthkumaryerra/terraform-aws-vpc-ec2) – Launch EC2 instance in custom VPC using Terraform
-- [jenkins-docker-ci-pipeline](https://github.com/prashanthkumaryerra/jenkins-docker-ci-pipeline) – CI/CD pipeline using Jenkins & Docker
-- [iac-nginx-vpc](https://github.com/prashanthkumaryerra/iac-nginx-vpc) – Deploy Nginx in EC2 inside a VPC via Terraform
+---
 
-📫 How to reach me:
-- 📧 **prashanthkumary123@gmail.com**
+### 🛠️ Tech Stack
+`AWS` | `Terraform` | `Jenkins` | `Docker` | `Kubernetes (EKS)` | `GitHub Actions` | `Linux` | `Bash` | `Ansible` | `CI/CD` | `VPC` | `EC2` | `IAM`
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [terraform-aws-vpc-ec2](https://github.com/prashanthkumaryerra/terraform-aws-vpc-ec2) | Create a custom VPC and deploy an EC2 instance using Terraform |
+| [jenkins-docker-ci-pipeline](https://github.com/prashanthkumaryerra/jenkins-docker-ci-pipeline) *(coming soon)* | CI/CD pipeline for a Dockerized app using Jenkins and GitHub integration |
+| [iac-nginx-vpc](https://github.com/prashanthkumaryerra/iac-nginx-vpc) *(coming soon)* | Deploy Nginx in EC2 within a custom VPC via Infrastructure as Code |
+| *docker-k8s-eks-deployment* *(in progress)* | Basic app deployment on AWS EKS using Docker & Kubernetes (improvements planned) |
+
+---
+
+### 📬 Let's Connect!
+- 📧 **[prashanthkumary123@gmail.com](mailto:prashanthkumary123@gmail.com)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/prashanth-kumar-a565b3358/)
 
 ---
 
-💡 _"Learning in public, building every day, and aiming to break into the cloud world with passion & consistency."_
-
+### 💡 Quote I live by:
+> *"Learning in public, building every day, and aiming to break into the cloud world with passion & consistency."*
