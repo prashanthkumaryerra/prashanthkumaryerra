@@ -35,6 +35,7 @@
 ### 📬 Let's Connect!
 - 📧 **[prashanthkumary123@gmail.com](mailto:prashanthkumary123@gmail.com)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/prashanth-kumar-a565b3358/)
+- 📞 [Phone](+91-9347925613)
 
 ---
 
